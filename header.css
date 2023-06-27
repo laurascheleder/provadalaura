@@ -1,0 +1,9 @@
+.cabecalho-menu {
+    width: 24px;
+    height:24px;
+    background-image: url("../menu/style.css");
+    display:inline-block;
+}
+.cabecalho
+         background-color: var (--branco);
+}
